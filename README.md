@@ -10,5 +10,4 @@
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: When I'm not immersed in code, you'll find me experimenting with new recipes or exploring the great outdoors!
 
