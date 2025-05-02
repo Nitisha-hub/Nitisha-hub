@@ -6,8 +6,6 @@
 
 💞️ I’m looking to collaborate on cutting-edge AI projects and open-source initiatives that push the boundaries of technology and make a positive impact.
 
-📫 How to reach me: Feel free to drop me a message on GitHub or connect with me on LinkedIn.
 
-😄 Pronouns: she/her
 
 
