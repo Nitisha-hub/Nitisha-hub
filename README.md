@@ -13,13 +13,6 @@ Hi there! I'm **Nitisha Mali**, a passionate 3rd-year B.Tech student specializin
 
 ---
 
-## 📊 GitHub Stats
-
-![Nitisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitisha-hub&show_icons=true&theme=tokyonight&hide_rank=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitisha-hub&layout=compact&theme=tokyonight)
-
----
 
 ### 💻 Languages and Tools
 
@@ -44,9 +37,15 @@ Hi there! I'm **Nitisha Mali**, a passionate 3rd-year B.Tech student specializin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
 </p>
 
-
 ---
 
+## 📊 GitHub Stats
+
+![Nitisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitisha-hub&show_icons=true&theme=tokyonight&hide_rank=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitisha-hub&layout=compact&theme=tokyonight)
+
+---
 ## 🚀 Coding Profiles
 
 - 💻 [HackerRank](https://www.hackerrank.com/@nitishamali23/)  
