@@ -46,7 +46,6 @@ Hi there! I'm **Nitisha Mali**, a passionate 3rd-year B.Tech student specializin
 - 📗 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your_username)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nitisha-mali/)
 
-> *(Replace the `your_username` with your actual profile URLs)*
 
 ---
 
