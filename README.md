@@ -12,8 +12,6 @@ Hi there! I'm **Nitisha Mali**, a passionate 3rd-year B.Tech student specializin
 - 💡 Believer in **learning by building**.
 
 ---
-
-
 ### 💻 Languages and Tools
 
 <p align="left">
