@@ -7,7 +7,7 @@ Hi there! I'm **Nitisha Mali**, a passionate 3rd-year B.Tech student specializin
 ## 🌟 About Me
 
 - 👀 I’m passionate about merging **AI with real-world applications** to solve meaningful problems.
-- 🌱 Currently exploring **Deep Learning, Neural Networks, and Data Analytics**.
+- 🌱 Currently learning Python, AWS Cloud Services, and building real-world projects in AI and Cloud Computing.
 - 🤝 Looking to collaborate on **open-source AI projects** and cutting-edge tech.
 - 💡 Believer in **learning by building**.
 
