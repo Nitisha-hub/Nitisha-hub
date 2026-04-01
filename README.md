@@ -45,12 +45,6 @@ Hi there! I'm **Nitisha Mali**, a passionate final-year B.Tech student specializ
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitisha-hub&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Coding Profiles
 
 - 💻 [HackerRank](https://www.hackerrank.com/@nitishamali23/)  
