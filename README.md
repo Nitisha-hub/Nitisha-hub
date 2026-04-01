@@ -50,7 +50,7 @@ Hi there! I'm **Nitisha Mali**, a passionate final-year B.Tech student specializ
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitisha-hub&layout=compact&theme=tokyonight)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Nitisha-hub&color=blue)
+
 ## 🚀 Coding Profiles
 
 - 💻 [HackerRank](https://www.hackerrank.com/@nitishamali23/)  
