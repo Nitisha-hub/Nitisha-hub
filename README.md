@@ -45,7 +45,7 @@ Hi there! I'm **Nitisha Mali**, a passionate final-year B.Tech student specializ
 
 ---
 
-## 🚀 Coding Profiles
+## 🚀 Coding Profiles    
 
 - 💻 [HackerRank](https://www.hackerrank.com/@nitishamali23/)  
 - 📘 [LeetCode](https://leetcode.com/u/3XxEj76eRd/)  
