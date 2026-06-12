@@ -1,4 +1,4 @@
-# 👩‍💻 Nitisha Mali.   
+# 👩‍💻 Nitisha Mali.    
 
 Hi there! I'm **Nitisha Mali**, a passionate final-year B.Tech student specializing in **Artificial Intelligence and Machine Learning** at RC Patel Institute of Technology, Shirpur.                                                    
                                   
